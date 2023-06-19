@@ -1,0 +1,32 @@
+.text1 {
+    
+    width: 100%;
+    top: 0;
+    left: 0;
+    transition: .5s;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+    margin-top: 0%;
+}
+.text{
+    color:rgb(185, 24, 24);
+    display: flex;
+    margin-left: 10px;
+    align-items:flex-end;
+    justify-content: center;
+
+ }   
+ .img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    width: 250px;
+    height: 250px;
+ }
+ body{
+    background-image: url(img/balão\ antigo.jpg);
+ }

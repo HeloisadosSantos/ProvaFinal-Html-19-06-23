@@ -1,0 +1,62 @@
+.letras {
+    font-family: 'Pacifico', cursive;
+    background-image: url(img/preto.jpg);
+    width: 100%;
+    top: 0;
+    left: 0;
+    transition: .5s;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 5em;
+    color: floralwhite;
+    margin-top: 0%;
+}
+.letras2 {
+    font-family: 'Pacifico', cursive;
+    background-image: url(img/ceu.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0;
+    left: 0;
+    transition: .5s;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-top: 10px;
+    color: rgb(19, 17, 14);
+    margin-top: 0%;
+    font-size: 80px;
+}
+.card-body1 h5{
+    font-family: 'Pacifico', cursive;
+    background-image: url(img/ceu.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 5em;
+    color: rgb(250, 250, 243);
+    margin-top: 0%;
+    font-size: 35px;
+}
+.organizar{
+    display: flex;
+    align-items: center;
+}
+body{
+    background-image: url(img/azulEscuro.png);
+}
+.preco{
+    display: flex;
+    align-items:end;
+}
+p{
+    font-size: 25px;
+}
+
